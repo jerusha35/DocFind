@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+
+# Build output
+target/
+bin/
+
+# Logs
+logs/
+*.log
+
+# IDE settings
+.vscode/
+
+# Local database credentials
+config/application.properties
+
+# Environment secrets
+.env

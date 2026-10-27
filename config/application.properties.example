@@ -1,0 +1,12 @@
+# DocuFind Application Configuration
+# Oracle Database Connection Settings
+db.url=jdbc:oracle:thin:@localhost:1521:orcl
+db.user=system
+db.password=livewire
+
+# Application Settings
+app.name=DocuFind - Offline Personal Search Engine
+app.version=1.0.0
+app.max_file_size_mb=25
+app.preview_char_limit=3000
+app.search_max_results=500
